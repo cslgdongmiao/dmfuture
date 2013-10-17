@@ -1,0 +1,64 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/sweez.css">
+		<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+		<script type="text/javascript" src="js/sweez.js"></script>
+	</head>
+	<body>
+		<div id="box">
+			<div id="header">
+				<a href="#" id="header-a"></a>
+			</div>
+			<div id="slidebox">
+				<div id="slide-l">
+					<img src="images/slide1.jpg" id="slidepic">
+				</div>
+				<div id="slide-r">
+					<ul>
+						<li><span class="white">Tidigare i fokus</span></li>
+						<li><span class="black">Maj 02</span><a href="#" class="white">Humorgalan 2012 </a></li>
+						<li><span class="black">Feb 05 </span><a href="#" class="white"> Mat-Desperat   </a></li>
+						<li><span class="black">Jan 13</span><a href="#" class="white">  H盲r kommer supermaten   </a></li>
+						<li><span class="black">Jan 12 </span><a href="#" class="white">  L氓t mig presentera matblogg.se 2010 </a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="bgbox">
+				<div id="content">
+					<div id="part1" class="entry">
+					</div>
+					<div id="part2" class="small-ad">
+					</div>
+					<div id="part3" class="entry">
+					</div>
+					<div class="small-ad" id="part4">
+					</div>
+					<div id="part5" class="entry">
+					</div>
+					<div id="part6" class="small-ad">
+					</div>
+					<div id="part7" class="entry">
+					</div>
+					<div id="part8" class="small-ad">
+					</div>
+					<div id="part9" class="small-ad">
+						<div class="small-left"></div>
+					</div>
+				</div>
+				<div id="bgbox-right">
+					<div id="info"></div>
+					<div id="ad"></div>
+					<div id="sidebar"></div>
+				</div>
+			</div>
+
+
+			<div id="footer">
+				<div id="categories"></div>
+				<div id="butt"></div>
+			</div>
+			
+		</div>
+	</body>
+</html>
