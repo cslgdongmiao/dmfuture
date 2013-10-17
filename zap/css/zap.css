@@ -1,0 +1,110 @@
+body{width:1300px;height:3442px;background-image:url("../images/allbackground.gif");background-repeat: repeat;*margin-left:170px;}
+a{text-decoration: none;}
+li{list-style-type: none;}
+img{border:0px;}
+
+
+
+#topimagec{width:950px;height:560px;padding: 0 10px;margin:0 auto;position: relative;overflow: hidden;}
+#home{width:963px;height:145px;border-bottom:1px dashed #ccc;}
+#head-logo{width:400px;height:81px;padding:36px 0 0 10px;float:left;}
+#head-nav{width:550px;height:90px;float:right;}
+#navul{width:435px;height:46px;padding-top:44px;float:right;}
+.selecta{width:68px;height:46px;color:#fff;font-size:16px;font-family:Arial;background-image:url("../images/selecta.gif");background-position:50% 100%;display:block;line-height:30px;padding-left:13px;border-radius:5px;}
+.unselecta{width:68px;height:46px;color:#fff;font-size:16px;font-family:Arial;display:block;line-height:30px;padding-left:13px;border-radius:5px;}
+#navul a{width:68px;height:46px;color:#fff;font-size:16px;font-family:Arial;display:block;}
+#navul li{float:left;margin-right: 5px;}
+.contentpic{width:963px;height:535px;position:absolute;top:0;z-index: -1;}
+#pic1{background-image:url("../images/slide1.png");}
+.slidinfo{width:300px;height:189px;margin-top:210px;padding-left:10px;}
+.slidinfo4{width:900px;height:189px;margin-top:210px;padding-left:10px;}
+.infotitle{width:300px;height:48px;font-size:42px;color:#f00;}
+.infotitle4{width:900px;height:48px;font-size:42px;color:#f00;}
+.infocontent{width:320px;height:120px;}
+.infocontent4{width:900px;height:120px;}
+.infoword{width:320px;height:120px;font-size:30px;color:rgb(163, 176, 182);font-family:Arial;margin-top:5px;*text-align:left;}
+.infoword4{width:900px;height:120px;font-size:30px;color:rgb(163, 176, 182);font-family:Arial;margin-top:5px;}
+.infoa{width:320px;height:15px;background-image:url("../images/revertto_icon.gif");color:#fff;background-repeat:no-repeat;padding-left:30px;background-position:0 7px;}
+.infoa a{color:#fff;font-family:Arial;}
+.rightb{width:177px;height:273px;background-image:url("../images/curl.png");float:right; margin-top:120px}
+.smallpic{width:75px;height:75px;background-image:url("../images/cutcorners.png");background-position:0 -24px;float:right;margin-top:200px;}
+
+/*.........................................................................*/
+#work{width:963px;height:1100px;margin:0 auto;}
+.maindes{width:963px;height:190px;}
+.desleft{width:450px;height:190px;float:left;}
+.desright{width:450px;height:190px;float:right;}
+.desbigt{width:410px;height:48px;color:#f00;font-size:42px;font-family:Arial;}
+.descontent{width:410px;height:140px;color:rgb(163, 176, 182);font-size:32px;font-family:Arial;}
+.desbigtr{width:500px;height:48px;text-align: left;}
+#desul{width:410px;height:48px;}
+#desul li{float:left;margin-left:20px;}
+#desul a{width:68px;height:46px;color:#fff;font-size:16px;font-family:Arial;}
+.descontentr{width:410px;height:40px;color:rgb(163, 176, 182);font-size:14px;font-family:Arial;margin-top:10px;margin-left:20px;}
+#mainpic{width:963px;height:760px;}
+.cell{width:220px;height:165px;}
+.bigword{font-size:22px;color:rgb(163, 176, 182);}
+.smallword{font-size:12px;color:rgb(163, 176, 182);float:left;}
+.mainli{float:left;}
+.picc{width:963px;height:220px;}
+.piccli{width:220px;height:220px;float:left;margin-left:10px; margin-right:5px;margin-top:30px;}
+.words{width:222px;height:48px;}
+/*.........................................................................*/
+
+
+/*.................................about ........................................*/
+
+#about{width:963px;height:828px;margin:0 auto;}
+.aboutinfo{width:963px;height:513px;}
+.part{width:310px;height:513px;float:left;margin-left:5px;color:rgb(116, 128, 133);font-size:14px;font-family:Arial;*margin-left:0px}
+.download{width:300px;height:21px;padding:25px 0 5px 0;font-size:42px;font-family:Arial;color:#fff;margin-top:20px;}
+.title{color:rgb(163, 176, 182);}
+#respic{width:243px;height:80px;float:right;}
+#aboutul{width:330px;height:84px;margin-left:0px;float:left;}
+#aboutul li{list-style-image:url("../images/liicon.gif");line-height:21px;background-repeat:no-repeat;background-position:0 5px;}
+#parttop{width:243px;height:120px;font-size:24px;text-align: center;color: #f00;font-family: "Times New Roman";border-top:1px dashed #ccc;margin-left:50px; }
+#tweet{width:213px;height:16px;padding:10px 15px;margin-left:50px; margin-top:30px;background-color: #fff;border-radius:5px;}
+#birdpic{width:243px;height:50px;background-image:url("../images/birdbg.png");background-repeat: no-repeat;margin-left:50px;padding-top:10px;margin-top:-10px;}
+#tel{font-size:28px;color:#fff;width:300px;height:21px;padding-top:20px;margin-top:5px;background-image:url("../images/tel.gif");background-repeat: no-repeat;background-position:0 10px;}
+
+/*..................................about end.......................................*/
+
+
+
+/*..................................contact .......................................*/
+#contact{width:963px;height:585px;margin:0 auto;}
+#contactp{width:963px;height:365px;}
+#contactpl{width:300px;height:343px;padding:22px 10px 0 10px;font-size:14px;color:rgb(116, 128, 133);font-family:Arial;float: left;}
+#contactplr{width:544px;height:343px;float:left;margin-left:50px;padding:22px 10px 0 10px;*margin-left:20px;}
+#formc{width:534px;height:226px;padding: 22px;background-color:rgb(25, 25, 25);}
+.formtitle{width:504px;height:17px;color:rgb(116, 128, 133);font-size:14px;font-family: Arial;background-image:url("../images/form.gif");background-repeat: no-repeat;padding-left:30px;background-position:0 3px;}
+#formmain{width:544px;height:144px;}
+#forml{width:225px;height:144px;padding-top:22px;float:left;}
+#formr{width:290px;height:144px;padding-top:22px;float:left;margin-left:20px;}
+.linput{width:215px;height:28px;padding:1px 5px 1px 5px;background-color: rgb(35, 35, 35);margin-top:5px;margin-bottom: 10px;}
+#forma{width:279px;height:119px;background-color: rgb(35, 35, 35);margin:1px auto;}
+#btnsend{width:61px;height:34px;background-color: #f00;color:#fff;margin-top:40px;text-align:center;border-radius:3px;cursor: pointer;padding-top:7px;}
+#ifram{width:223px;height:90px;border:1px solid #ccc;}
+#contactplr input{color:#fff;font-family:Arial;}
+/*..................................contact end.......................................*/
+
+
+
+
+/*..................................foot .......................................*/
+
+#foot{width:963px;height:251px;margin:20px auto;}
+#foot-adress{width:472px;height:211px;float:left;}
+.footp{color:rgb(46, 51, 53);font-size: 12px;font-family: Arial;}
+.footp a{text-decoration:underline;color:rgb(46, 51, 53);font-size: 12px;font-family: Arial;}
+.bluea{font-size: 12px;font-family: Arial;margin-top:50px;display:block;}
+#footemail{float:right;width:417px;height:75px;}
+.lispan{font-size:16px;color:rgb(46, 51, 53);display: block;font-family:Arial;}
+.reda{color:#f00;}
+#footemail li{float:left;margin-left:10px;}
+/*..................................foot end.......................................*/
+
+
+#pic2{background-image:url("../images/slide2.png");}
+#pic3{background-image:url("../images/slide3.png");}
+#pic4{background-color: transparent;}
